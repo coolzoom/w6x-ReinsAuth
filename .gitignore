@@ -38,8 +38,7 @@ Thumbs.db
 *.cache
 *.ilk
 *.log
-[Bb]in
-[Dd]ebug*/
+[Bb]uild
 *.lib
 *.sbr
 obj/
